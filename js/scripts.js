@@ -18,7 +18,7 @@ function copyLink(){
 
 // 신부 계좌번호 복사
 function brideAccountNumber(){
-	var bride_account = '00000000 카카오뱅크';
+	var bride_account = '100156620111 카카오뱅크';
 	var textarea = document.createElement("textarea");
 	document.body.appendChild(textarea);
 	textarea.value = bride_account;
